@@ -1,1 +1,1 @@
-# SQL_When_Was-_the_Golden_Age_of_Video_Games-
+SQL project on DataCamp.
